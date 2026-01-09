@@ -1,6 +1,3 @@
-p{
-color : blue;
-}
 <h1>Google Cloud (Free tier)</h1>
 <p> Data Related Services </p>
 <p>1. DataFlow (For Data analytic service)</p>
