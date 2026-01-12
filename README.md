@@ -1,1 +1,1 @@
-</h1> DAY3 OF Training</h1>
+</h1> For Machine Learning Training </h1>
