@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Masterclass;From+Basic+Math+to+Deep+Learning;Building+Intelligent+Systems!&font=Fira+Code&center=true&width=600&height=50&color=8A2BE2&vCenter=true" alt="Typing SVG">
 
-A comprehensive guide to understanding Machine Learning, from foundational algorithms to advanced Deep Learning and LLMs. 🚀
+A understanding Machine Learning, from foundational algorithms to advanced Deep Learning and LLMs. 🚀
 
 ---
 
